@@ -11,10 +11,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "https://github.com/caseylister/e-commerce-back-end"
   },
   "keywords": [],
-  "author": "",
+  "author": "Casey",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
